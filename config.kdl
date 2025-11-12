@@ -1,4 +1,5 @@
 keybinds clear-defaults=true {
+    unbind "Alt f"
     locked {
         bind "Ctrl g" { SwitchToMode "normal"; }
         bind "Ctrl t" { SwitchToMode "tab"; }
